@@ -1,0 +1,11 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dana_White%27s_Contender_Series_season_9",
+    "weeks": [
+        {
+            "name": "DW Contender Series 77",
+            "object": "DWCS_77",
+            "id": "Series 77",
+            "output": "./years/2025/cards/contender/77/card.js"
+        }
+    ]
+}

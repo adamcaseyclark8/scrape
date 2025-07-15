@@ -1,0 +1,11 @@
+{
+    "url": "https://en.wikipedia.org/wiki/Dana_White%27s_Contender_Series_season_8",
+    "weeks": [
+        {
+            "name": "DW Contender Series 76",
+            "object": "DWCS_76",
+            "id": "Series 76",
+            "output": "./years/2024/cards/contender/76/card.js"
+        }
+    ]
+}

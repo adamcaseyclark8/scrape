@@ -1,0 +1,19 @@
+{
+    "name": "scrape",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "open": "cypress open",
+        "lint": "prettier --config .prettierrc --write ."
+    },
+    "keywords": [],
+    "author": "adam casey clark",
+    "license": "ISC",
+    "dependencies": {
+        "cypress": "^14.5.1",
+        "datejs": "^1.0.0-rc3",
+        "lodash-es": "^4.17.21",
+        "prettier": "^3.6.2"
+    }
+}
